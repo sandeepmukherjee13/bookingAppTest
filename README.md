@@ -13,7 +13,7 @@ module.exports = {
     // JWT_SECRET: 'ad8a?897sad!'
     JWT_SECRET:'some_unique_value'
 }
-
+```
 In Base folder of Project run `npm install` and then `npm start` to startup the dev server
 
 To run Api server go to `server` folder with command `cd server` 
